@@ -14,7 +14,7 @@ description: A virtual proof that I'm awesome
 #url: "http://se7ventysix.com/beautiful-jekyll"
 
 # baseurl should be an empty string
-baseurl: "/beautiful-jekyll"
+baseurl: ""
 
 # --- Navigation bar options --- #
 
